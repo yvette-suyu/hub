@@ -19,10 +19,9 @@ feature_extract.py
   
   The command is:
       
-    ```python
+
     python feature_extract.py mobile model/mobile_mobile_wgt.h5
-    
-    ```
+
    
 ## MDP
   
@@ -30,6 +29,6 @@ MDP.py
   
   The command is:     
     
-    ```python
+
     python MDP.py mobile
-    ```
+
