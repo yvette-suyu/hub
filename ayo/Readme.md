@@ -8,7 +8,7 @@ train_loss.py
 
   ```
 如果数据集分好了就使用 False/没划分好要单独运行划分文件
-  
+  数据集下载：https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.225b47d0sMilNQ&raceId=231677
   
 use split.py
   
